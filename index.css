@@ -105,3 +105,33 @@ overflow-x:hidden;
 	margin-left: auto;
 	margin-right: auto;
 }
+
+
+/* GALLERY */
+
+.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+.gallery:hover {
+  border: 1px solid #777;
+}
+
+.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+    	.desc{
+    	display: block;
+	text-align: center;
+	font: 100% Verdana;
+	Font-Size: 15;
+	color: white;
+	text-decoration: bold;
+	margin-left: auto;
+	margin-right: auto;
+}
